@@ -1,7 +1,7 @@
 {
-  "name": "zoojar-gitversion",
+  "name": "pe-gitversion",
   "version": "0.1.0",
-  "author": "zoojar",
+  "author": "David J Newton",
   "summary": "Basics Five: Workflow including r10k and eyaml",
   "license": "Apache-2.0",
   "source": "",
